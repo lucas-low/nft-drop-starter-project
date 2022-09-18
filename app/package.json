@@ -1,5 +1,6 @@
 {
   "name": "candy-drop",
+  "author": "Lucas-Low",
   "version": "1.0.0",
   "private": true,
   "dependencies": {

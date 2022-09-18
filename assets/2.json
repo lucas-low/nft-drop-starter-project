@@ -1,0 +1,22 @@
+{
+    "name": "Number #0003",
+    "symbol": "^._.^",
+    "seller_fee_basis_points": 500,
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "E5Hx22WpzGVayZv3cs73WoV25FagSE3kSAaEjXfpRy6L",
+          "share": 100
+        }
+      ]
+    }
+  }
+
+ 
